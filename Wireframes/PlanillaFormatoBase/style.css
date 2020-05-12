@@ -78,66 +78,88 @@ section{
     box-sizing: border-box;
     position: relative;
     top:80px;
-    height: 1000px;
+    height: 600px;
     width: 100%;
     float: left;
     text-align: center;
+    font-family: "Montserrat";
 }
 
 
 
     .name{
-        width: 20%;
-        padding: 20px 18px;
+        width: 26%;
+        padding: 10px 18px;
+        position: relative;
+     
+        left:10px;
+        top:45px;
+
         
 
     }
     .last{
-        width: 20%;
-        padding: 20px 18px;
+        width: 26%;
+        padding: 10px 18px;
+        position: relative;
+     
+        left:10px;
+        top:45px;
        
 
     }
     .mail{
-        width: 20%;
-        padding: 20px 18px;
-       
+        width: 26%;
+        padding: 10px 18px;
+        position: relative;
+     
+        left:10px;
+        top:45px;
+
 
     }
     .passw{
-        width: 20%;
-        padding: 20px 18px;
+        width: 26%;
+        padding: 10px 18px;
+        position: relative;
+     
+        left:10px;
+        top:45px;
+       
        
 
     }
     .registro{
         font-size: 35px;
-        margin:auto;
-       
-  
-        padding: 60px;
-       
+   position: relative;
+   top:60px;
+   right: 10px;
+   left:6px;
     }
 
     .parrafo{
         font-size: 20px;
+        position: relative;
+        bottom: 30px;
+        left:10px;
+        top:55px;
         
     }
  
 
     .boton2{
-        width: 12%;
-        padding: 10px 6px;
+        width: 26%;
+        padding: 10px 18px;
+      
+        position: relative;
+      
+        font-size: 95%;
+        left:10px;
+        top:45px;
     }
 
-    body{
-        font-family: "Montserrat";
-        
-    }
+ 
 
-    .cuenta{
-        font-size: 60%;
-    }
 /*
 aca termina el section
 -------------------------------------------------
